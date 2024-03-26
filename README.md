@@ -1,19 +1,4 @@
-<div align="center">	
-	<p>	
-		<a href="https://doppler.com?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-interview&utm_source=github">	
-      <div>	
-				<img src="https://"D:\vickky\personal\VIKRANT.jpg"" width="260"  alt="Doppler">	
-			</div>	
-      <br>
-			<b>All your environment variables, in one place</b>	
-			<div>Stop struggling with scattered API keys, hacking together home-brewed tools,</div>
-			<div>and avoiding access controls. Keep your team and servers in sync with Doppler.</div>
-			</br>
-		</a>	
-	</p>	
-</div>	
-
-# Awesome Interviews [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Interviews [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/vickky122/awesome-interview-questions)
 
 > A curated list of lists of technical interview questions.
 
